@@ -1,0 +1,90 @@
+2025-11-21 00:30:28,642 - __main__ - INFO - 🔄 Inicializando WebDriver...
+2025-11-21 00:30:28,643 - scraper_selenium_fixed - INFO - Tentando método: _try_webdriver_manager
+2025-11-21 00:30:28,694 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 00:30:29,538 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:30:29,963 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:30:30,390 - WDM - INFO - Driver [C:\Users\Eduardo Ribeiro\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-11-21 00:30:30,393 - scraper_selenium_fixed - WARNING - ❌ Método _try_webdriver_manager falhou: Message: WebDriver Manager falhou: [WinError 193] %1 não é um aplicativo Win32 válido
+
+2025-11-21 00:30:30,393 - scraper_selenium_fixed - INFO - Tentando método: _try_chromedriver_path
+2025-11-21 00:30:32,216 - scraper_selenium_fixed - INFO - ✅ WebDriver inicializado com sucesso
+2025-11-21 00:30:32,216 - __main__ - INFO - 🔍 Processando 1/15: CL10C330JB8NNNC
+2025-11-21 00:30:32,216 - scraper_selenium_fixed - INFO - 🚀 Iniciando busca para: CL10C330JB8NNNC
+2025-11-21 00:32:17,009 - scraper_selenium_fixed - ERROR - Não foi possível encontrar a barra de pesquisa
+2025-11-21 00:32:17,011 - __main__ - INFO - ⏳ Aguardando 11.9s antes do próximo...
+2025-11-21 00:32:28,883 - __main__ - INFO - 🔍 Processando 2/15: CL10B472KB8NNNC
+2025-11-21 00:32:28,883 - scraper_selenium_fixed - INFO - 🚀 Iniciando busca para: CL10B472KB8NNNC
+2025-11-21 00:34:12,650 - scraper_selenium_fixed - ERROR - Não foi possível encontrar a barra de pesquisa
+2025-11-21 00:34:12,652 - __main__ - INFO - ⏳ Aguardando 11.1s antes do próximo...
+2025-11-21 00:34:23,706 - __main__ - INFO - 🔍 Processando 3/15: GRM1885C1H180JA01D
+2025-11-21 00:34:23,707 - scraper_selenium_fixed - INFO - 🚀 Iniciando busca para: GRM1885C1H180JA01D
+2025-11-21 00:34:23,708 - scraper_selenium_fixed - ERROR - Erro ao buscar URL para GRM1885C1H180JA01D: Message: invalid session id: session deleted as the browser has closed the connection
+from disconnected: not connected to DevTools
+  (Session info: chrome=142.0.7444.164)
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7470ea235
+	0x7ff746e42630
+	0x7ff746bd16dd
+	0x7ff746bbd205
+	0x7ff746be2a8a
+	0x7ff746c5a476
+	0x7ff746c7b3d2
+	0x7ff746c1b0ed
+	0x7ff746c1bf63
+	0x7ff747115d60
+	0x7ff74710fe8a
+	0x7ff747131005
+	0x7ff746e5d71e
+	0x7ff746e64e1f
+	0x7ff746e4b7c4
+	0x7ff746e4b97f
+	0x7ff746e318e8
+	0x7ff8275be8d7
+	0x7ff82898c53c
+
+2025-11-21 00:34:23,709 - __main__ - INFO - ⏳ Aguardando 19.0s antes do próximo...
+2025-11-21 00:34:27,935 - __main__ - INFO - Scraping interrompido pelo usuário
+2025-11-21 00:34:27,939 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/99eef2c4c11035c87f3440ba2fbd7803
+2025-11-21 00:34:29,987 - __main__ - INFO - Scraper finalizado
+2025-11-21 00:34:34,396 - __main__ - INFO - 🔄 Inicializando WebDriver...
+2025-11-21 00:34:34,396 - scraper_selenium_fixed - INFO - Tentando método: _try_webdriver_manager
+2025-11-21 00:34:34,449 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 00:34:35,363 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:34:35,771 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:34:36,178 - WDM - INFO - Driver [C:\Users\Eduardo Ribeiro\.wdm\drivers\chromedriver\win64\142.0.7444.175\chromedriver-win32/THIRD_PARTY_NOTICES.chromedriver] found in cache
+2025-11-21 00:34:36,180 - scraper_selenium_fixed - WARNING - ❌ Método _try_webdriver_manager falhou: Message: WebDriver Manager falhou: [WinError 193] %1 não é um aplicativo Win32 válido
+
+2025-11-21 00:34:36,180 - scraper_selenium_fixed - INFO - Tentando método: _try_chromedriver_path
+2025-11-21 00:34:37,510 - scraper_selenium_fixed - INFO - ✅ WebDriver inicializado com sucesso
+2025-11-21 00:34:37,511 - __main__ - INFO - 🔍 Processando 1/15: CL10C330JB8NNNC
+2025-11-21 00:34:37,511 - scraper_selenium_fixed - INFO - 🚀 Iniciando busca para: CL10C330JB8NNNC
+2025-11-21 00:34:59,130 - scraper_selenium_fixed - ERROR - Não foi possível encontrar a barra de pesquisa
+2025-11-21 00:34:59,131 - __main__ - INFO - ⏳ Aguardando 15.2s antes do próximo...
+2025-11-21 00:35:14,345 - __main__ - INFO - 🔍 Processando 2/15: CL10B472KB8NNNC
+2025-11-21 00:35:14,345 - scraper_selenium_fixed - INFO - 🚀 Iniciando busca para: CL10B472KB8NNNC
+2025-11-21 00:35:14,346 - scraper_selenium_fixed - ERROR - Erro ao buscar URL para CL10B472KB8NNNC: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff7470ea235
+	0x7ff746e42630
+	0x7ff746bd14e5
+	0x7ff746c1a151
+	0x7ff746c52a12
+	0x7ff746c4d27c
+	0x7ff746c4c46a
+	0x7ff746b9acb5
+	0x7ff747115d60
+	0x7ff74710fe8a
+	0x7ff747131005
+	0x7ff746e5d71e
+	0x7ff746e64e1f
+	0x7ff746b9977b
+	0x7ff7472645f8
+	0x7ff8275be8d7
+	0x7ff82898c53c
+
+2025-11-21 00:35:14,346 - __main__ - INFO - ⏳ Aguardando 11.2s antes do próximo...
+2025-11-21 00:35:17,874 - __main__ - INFO - Scraping interrompido pelo usuário
+2025-11-21 00:35:17,876 - urllib3.connectionpool - WARNING - Retrying (Retry(total=2, connect=None, read=None, redirect=None, status=None)) after connection broken by 'ConnectionResetError(10054, 'Foi forçado o cancelamento de uma conexão existente pelo host remoto', None, 10054, None)': /session/690169a05ce602ed6f12cdc9f5e35cb5
+2025-11-21 00:35:19,942 - __main__ - INFO - Scraper finalizado

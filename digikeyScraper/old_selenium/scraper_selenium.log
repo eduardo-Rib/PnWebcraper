@@ -1,0 +1,14 @@
+2025-11-21 00:18:17,308 - WDM - INFO - ====== WebDriver manager ======
+2025-11-21 00:18:18,179 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:18:18,614 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:18:19,016 - WDM - INFO - There is no [win64] chromedriver "142.0.7444.175" for browser google-chrome "142.0.7444" in cache
+2025-11-21 00:18:19,017 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:18:19,964 - WDM - INFO - WebDriver version 142.0.7444.175 selected
+2025-11-21 00:18:19,969 - WDM - INFO - Modern chrome version https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 00:18:19,969 - WDM - INFO - About to download new driver from https://storage.googleapis.com/chrome-for-testing-public/142.0.7444.175/win32/chromedriver-win32.zip
+2025-11-21 00:18:20,416 - WDM - INFO - Driver downloading response is 200
+2025-11-21 00:18:20,696 - WDM - INFO - Get LATEST chromedriver version for google-chrome
+2025-11-21 00:18:21,978 - WDM - INFO - Driver has been saved in cache [C:\Users\Eduardo Ribeiro\.wdm\drivers\chromedriver\win64\142.0.7444.175]
+2025-11-21 00:18:22,004 - scraper_selenium - ERROR - Erro ao iniciar o WebDriver: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-11-21 00:18:22,004 - __main__ - ERROR - Erro durante execução: [WinError 193] %1 não é um aplicativo Win32 válido
+2025-11-21 00:18:22,004 - __main__ - INFO - Scraper finalizado

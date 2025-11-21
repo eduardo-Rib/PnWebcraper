@@ -1,0 +1,135 @@
+2025-11-20 23:59:27,652 - __main__ - INFO - 🔍 Processando 1/15: CL10C330JB8NNNC
+2025-11-20 23:59:27,653 - scraper - INFO - 🚀 Iniciando busca para: CL10C330JB8NNNC
+2025-11-20 23:59:34,551 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-20 23:59:34,552 - scraper - INFO - Tentativa 2/3. Aguardando 3.21s
+2025-11-20 23:59:37,960 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-20 23:59:37,961 - scraper - INFO - Tentativa 3/3. Aguardando 5.04s
+2025-11-20 23:59:43,203 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-20 23:59:43,203 - scraper - ERROR - Erro ao buscar URL para CL10C330JB8NNNC: Falha após 3 tentativas
+2025-11-20 23:59:43,206 - __main__ - INFO - ⏳ Aguardando 6.2s antes do próximo...
+2025-11-20 23:59:49,371 - __main__ - INFO - 🔍 Processando 2/15: CL10B472KB8NNNC
+2025-11-20 23:59:49,371 - scraper - INFO - 🚀 Iniciando busca para: CL10B472KB8NNNC
+2025-11-20 23:59:55,960 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-20 23:59:55,960 - scraper - INFO - Tentativa 2/3. Aguardando 3.97s
+2025-11-21 00:00:00,139 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:00:00,140 - scraper - INFO - Tentativa 3/3. Aguardando 6.95s
+2025-11-21 00:00:07,286 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:00:07,286 - scraper - ERROR - Erro ao buscar URL para CL10B472KB8NNNC: Falha após 3 tentativas
+2025-11-21 00:00:07,288 - __main__ - INFO - ⏳ Aguardando 5.3s antes do próximo...
+2025-11-21 00:00:12,559 - __main__ - INFO - 🔍 Processando 3/15: GRM1885C1H180JA01D
+2025-11-21 00:00:12,559 - scraper - INFO - 🚀 Iniciando busca para: GRM1885C1H180JA01D
+2025-11-21 00:00:18,897 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:00:18,897 - scraper - INFO - Tentativa 2/3. Aguardando 3.92s
+2025-11-21 00:00:23,027 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:00:23,027 - scraper - INFO - Tentativa 3/3. Aguardando 6.24s
+2025-11-21 00:00:29,473 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:00:29,474 - scraper - ERROR - Erro ao buscar URL para GRM1885C1H180JA01D: Falha após 3 tentativas
+2025-11-21 00:00:29,476 - __main__ - INFO - ⏳ Aguardando 4.1s antes do próximo...
+2025-11-21 00:00:33,533 - __main__ - INFO - 🔍 Processando 4/15: CL10A106KP8NNNC
+2025-11-21 00:00:33,533 - scraper - INFO - 🚀 Iniciando busca para: CL10A106KP8NNNC
+2025-11-21 00:00:40,034 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:00:40,035 - scraper - INFO - Tentativa 2/3. Aguardando 3.86s
+2025-11-21 00:00:44,098 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:00:44,100 - scraper - INFO - Tentativa 3/3. Aguardando 6.05s
+2025-11-21 00:00:50,395 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:00:50,395 - scraper - ERROR - Erro ao buscar URL para CL10A106KP8NNNC: Falha após 3 tentativas
+2025-11-21 00:00:50,397 - __main__ - INFO - ⏳ Aguardando 6.6s antes do próximo...
+2025-11-21 00:00:56,957 - __main__ - INFO - 🔍 Processando 5/15: C1608X5R1E106M080AC
+2025-11-21 00:00:56,957 - scraper - INFO - 🚀 Iniciando busca para: C1608X5R1E106M080AC
+2025-11-21 00:01:03,388 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:01:03,390 - scraper - INFO - Tentativa 2/3. Aguardando 3.58s
+2025-11-21 00:01:07,195 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:01:07,196 - scraper - INFO - Tentativa 3/3. Aguardando 6.81s
+2025-11-21 00:01:14,219 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:01:14,219 - scraper - ERROR - Erro ao buscar URL para C1608X5R1E106M080AC: Falha após 3 tentativas
+2025-11-21 00:01:14,219 - __main__ - INFO - ⏳ Aguardando 4.3s antes do próximo...
+2025-11-21 00:01:18,478 - __main__ - INFO - 🔍 Processando 6/15: 88512006119
+2025-11-21 00:01:18,478 - scraper - INFO - 🚀 Iniciando busca para: 88512006119
+2025-11-21 00:01:24,736 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:01:24,737 - scraper - INFO - Tentativa 2/3. Aguardando 3.05s
+2025-11-21 00:01:28,057 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:01:28,058 - scraper - INFO - Tentativa 3/3. Aguardando 5.89s
+2025-11-21 00:01:34,148 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:01:34,150 - scraper - ERROR - Erro ao buscar URL para 88512006119: Falha após 3 tentativas
+2025-11-21 00:01:34,152 - __main__ - INFO - ⏳ Aguardando 3.8s antes do próximo...
+2025-11-21 00:01:37,922 - __main__ - INFO - 🔍 Processando 7/15: NACE100M100V6.3X8TR13F
+2025-11-21 00:01:37,922 - scraper - INFO - 🚀 Iniciando busca para: NACE100M100V6.3X8TR13F
+2025-11-21 00:01:44,365 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:01:44,365 - scraper - INFO - Tentativa 2/3. Aguardando 3.86s
+2025-11-21 00:01:48,433 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:01:48,433 - scraper - INFO - Tentativa 3/3. Aguardando 5.17s
+2025-11-21 00:01:53,810 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:01:53,811 - scraper - ERROR - Erro ao buscar URL para NACE100M100V6.3X8TR13F: Falha após 3 tentativas
+2025-11-21 00:01:53,813 - __main__ - INFO - ⏳ Aguardando 4.9s antes do próximo...
+2025-11-21 00:01:58,759 - __main__ - INFO - 🔍 Processando 8/15: CRCW060320K0FKEA
+2025-11-21 00:01:58,759 - scraper - INFO - 🚀 Iniciando busca para: CRCW060320K0FKEA
+2025-11-21 00:02:05,063 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:02:05,063 - scraper - INFO - Tentativa 2/3. Aguardando 4.35s
+2025-11-21 00:02:09,613 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:02:09,613 - scraper - INFO - Tentativa 3/3. Aguardando 6.91s
+2025-11-21 00:02:16,735 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:02:16,736 - scraper - ERROR - Erro ao buscar URL para CRCW060320K0FKEA: Falha após 3 tentativas
+2025-11-21 00:02:16,738 - __main__ - INFO - ⏳ Aguardando 3.6s antes do próximo...
+2025-11-21 00:02:20,296 - __main__ - INFO - 🔍 Processando 9/15: ERJ-2RKF2201X
+2025-11-21 00:02:20,296 - scraper - INFO - 🚀 Iniciando busca para: ERJ-2RKF2201X
+2025-11-21 00:02:26,658 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:02:26,659 - scraper - INFO - Tentativa 2/3. Aguardando 3.16s
+2025-11-21 00:02:30,017 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:02:30,018 - scraper - INFO - Tentativa 3/3. Aguardando 6.94s
+2025-11-21 00:02:37,217 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:02:37,218 - scraper - ERROR - Erro ao buscar URL para ERJ-2RKF2201X: Falha após 3 tentativas
+2025-11-21 00:02:37,220 - __main__ - INFO - ⏳ Aguardando 3.5s antes do próximo...
+2025-11-21 00:02:40,727 - __main__ - INFO - 🔍 Processando 10/15: BC847BLT1G
+2025-11-21 00:02:40,728 - scraper - INFO - 🚀 Iniciando busca para: BC847BLT1G
+2025-11-21 00:02:47,107 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:02:47,108 - scraper - INFO - Tentativa 2/3. Aguardando 4.90s
+2025-11-21 00:02:52,209 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:02:52,209 - scraper - INFO - Tentativa 3/3. Aguardando 6.09s
+2025-11-21 00:02:58,508 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:02:58,508 - scraper - ERROR - Erro ao buscar URL para BC847BLT1G: Falha após 3 tentativas
+2025-11-21 00:02:58,511 - __main__ - INFO - ⏳ Aguardando 3.1s antes do próximo...
+2025-11-21 00:03:01,622 - __main__ - INFO - 🔍 Processando 11/15: IRLML6401TRPBF
+2025-11-21 00:03:01,623 - scraper - INFO - 🚀 Iniciando busca para: IRLML6401TRPBF
+2025-11-21 00:03:07,858 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:03:07,859 - scraper - INFO - Tentativa 2/3. Aguardando 4.64s
+2025-11-21 00:03:12,820 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:03:12,820 - scraper - INFO - Tentativa 3/3. Aguardando 5.88s
+2025-11-21 00:03:18,921 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:03:18,921 - scraper - ERROR - Erro ao buscar URL para IRLML6401TRPBF: Falha após 3 tentativas
+2025-11-21 00:03:18,922 - __main__ - INFO - ⏳ Aguardando 6.2s antes do próximo...
+2025-11-21 00:03:25,096 - __main__ - INFO - 🔍 Processando 12/15: STPS5H100B-TR
+2025-11-21 00:03:25,096 - scraper - INFO - 🚀 Iniciando busca para: STPS5H100B-TR
+2025-11-21 00:03:31,940 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:03:31,941 - scraper - INFO - Tentativa 2/3. Aguardando 4.24s
+2025-11-21 00:03:36,405 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:03:36,405 - scraper - INFO - Tentativa 3/3. Aguardando 6.08s
+2025-11-21 00:03:42,697 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:03:42,698 - scraper - ERROR - Erro ao buscar URL para STPS5H100B-TR: Falha após 3 tentativas
+2025-11-21 00:03:42,700 - __main__ - INFO - ⏳ Aguardando 6.2s antes do próximo...
+2025-11-21 00:03:48,912 - __main__ - INFO - 🔍 Processando 13/15: ESD7C3.3DT5G
+2025-11-21 00:03:48,912 - scraper - INFO - 🚀 Iniciando busca para: ESD7C3.3DT5G
+2025-11-21 00:03:55,739 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:03:55,740 - scraper - INFO - Tentativa 2/3. Aguardando 3.94s
+2025-11-21 00:03:59,887 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:03:59,887 - scraper - INFO - Tentativa 3/3. Aguardando 5.57s
+2025-11-21 00:04:05,668 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:04:05,668 - scraper - ERROR - Erro ao buscar URL para ESD7C3.3DT5G: Falha após 3 tentativas
+2025-11-21 00:04:05,671 - __main__ - INFO - ⏳ Aguardando 3.5s antes do próximo...
+2025-11-21 00:04:09,209 - __main__ - INFO - 🔍 Processando 14/15: LD1117ADT-TR REG
+2025-11-21 00:04:09,210 - scraper - INFO - 🚀 Iniciando busca para: LD1117ADT-TR REG
+2025-11-21 00:04:15,850 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:04:15,851 - scraper - INFO - Tentativa 2/3. Aguardando 3.99s
+2025-11-21 00:04:20,246 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:04:20,247 - scraper - INFO - Tentativa 3/3. Aguardando 5.91s
+2025-11-21 00:04:26,469 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:04:26,470 - scraper - ERROR - Erro ao buscar URL para LD1117ADT-TR REG: Falha após 3 tentativas
+2025-11-21 00:04:26,471 - __main__ - INFO - ⏳ Aguardando 5.8s antes do próximo...
+2025-11-21 00:04:32,227 - __main__ - INFO - 🔍 Processando 15/15: ECS-3225Q-33-260-BS-TR
+2025-11-21 00:04:32,227 - scraper - INFO - 🚀 Iniciando busca para: ECS-3225Q-33-260-BS-TR
+2025-11-21 00:04:38,854 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 1
+2025-11-21 00:04:38,854 - scraper - INFO - Tentativa 2/3. Aguardando 4.83s
+2025-11-21 00:04:43,878 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 2
+2025-11-21 00:04:43,880 - scraper - INFO - Tentativa 3/3. Aguardando 5.54s
+2025-11-21 00:04:49,639 - scraper - WARNING - Erro 429 - Too Many Requests. Tentativa 3
+2025-11-21 00:04:49,640 - scraper - ERROR - Erro ao buscar URL para ECS-3225Q-33-260-BS-TR: Falha após 3 tentativas
+2025-11-21 00:04:49,649 - __main__ - INFO - Scraper finalizado

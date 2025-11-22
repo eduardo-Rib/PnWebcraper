@@ -1,0 +1,367 @@
+2025-11-21 20:35:42,439 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10C330JB8NNNC
+2025-11-21 20:35:42,439 - mouser_api_client - INFO - 🔍 Buscando part number: CL10C330JB8NNNC
+2025-11-21 20:35:44,668 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:35:44,668 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:35:46,669 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:35:46,679 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CRCW060320K0FKEA
+2025-11-21 20:35:46,680 - mouser_api_client - INFO - 🔍 Buscando part number: CRCW060320K0FKEA
+2025-11-21 20:35:47,384 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:35:47,384 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:35:49,385 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:35:49,386 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: BC847BLT1G
+2025-11-21 20:35:49,386 - mouser_api_client - INFO - 🔍 Buscando part number: BC847BLT1G
+2025-11-21 20:35:49,915 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:35:49,916 - mouser_api_client - INFO - ✅ Encontrados 2 resultados
+2025-11-21 20:35:51,918 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:35:51,927 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: STM32F103C8T6
+2025-11-21 20:35:51,929 - mouser_api_client - INFO - 🔍 Buscando part number: STM32F103C8T6
+2025-11-21 20:35:52,487 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:35:52,487 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:35:54,488 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:07,021 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10C330JB8NNNC
+2025-11-21 20:55:07,021 - mouser_api_client - INFO - 🔍 Buscando part number: CL10C330JB8NNNC
+2025-11-21 20:55:08,650 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:08,651 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:10,653 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:10,662 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10B472KB8NNNC
+2025-11-21 20:55:10,663 - mouser_api_client - INFO - 🔍 Buscando part number: CL10B472KB8NNNC
+2025-11-21 20:55:11,206 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:11,207 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:13,209 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:13,218 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: GRM1885C1H180JA01D
+2025-11-21 20:55:13,219 - mouser_api_client - INFO - 🔍 Buscando part number: GRM1885C1H180JA01D
+2025-11-21 20:55:13,845 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:13,845 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:15,846 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:15,856 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10A106KP8NNNC
+2025-11-21 20:55:15,857 - mouser_api_client - INFO - 🔍 Buscando part number: CL10A106KP8NNNC
+2025-11-21 20:55:16,464 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:16,464 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:18,465 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:18,468 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: C1608X5R1E106M080AC
+2025-11-21 20:55:18,469 - mouser_api_client - INFO - 🔍 Buscando part number: C1608X5R1E106M080AC
+2025-11-21 20:55:18,978 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:18,979 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:20,980 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:20,981 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: 88512006119
+2025-11-21 20:55:20,981 - mouser_api_client - INFO - 🔍 Buscando part number: 88512006119
+2025-11-21 20:55:21,553 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:21,553 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 20:55:23,555 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: 88512006119
+2025-11-21 20:55:23,555 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: NACE100M100V6.3X8TR13F
+2025-11-21 20:55:23,555 - mouser_api_client - INFO - 🔍 Buscando part number: NACE100M100V6.3X8TR13F
+2025-11-21 20:55:24,087 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:24,087 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 20:55:26,089 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: NACE100M100V6.3X8TR13F
+2025-11-21 20:55:26,090 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CRCW060320K0FKEA
+2025-11-21 20:55:26,090 - mouser_api_client - INFO - 🔍 Buscando part number: CRCW060320K0FKEA
+2025-11-21 20:55:26,669 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:26,669 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:28,670 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:28,673 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ERJ-2RKF2201X
+2025-11-21 20:55:28,673 - mouser_api_client - INFO - 🔍 Buscando part number: ERJ-2RKF2201X
+2025-11-21 20:55:29,162 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:29,162 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:31,164 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:31,166 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: BC847BLT1G
+2025-11-21 20:55:31,166 - mouser_api_client - INFO - 🔍 Buscando part number: BC847BLT1G
+2025-11-21 20:55:31,609 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:31,610 - mouser_api_client - INFO - ✅ Encontrados 2 resultados
+2025-11-21 20:55:33,611 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:33,612 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: IRLML6401TRPBF
+2025-11-21 20:55:33,613 - mouser_api_client - INFO - 🔍 Buscando part number: IRLML6401TRPBF
+2025-11-21 20:55:34,068 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:34,068 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:36,068 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:36,076 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: STPS5H100B-TR
+2025-11-21 20:55:36,076 - mouser_api_client - INFO - 🔍 Buscando part number: STPS5H100B-TR
+2025-11-21 20:55:36,648 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:36,648 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:38,649 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:38,650 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ESD7C3.3DT5G
+2025-11-21 20:55:38,651 - mouser_api_client - INFO - 🔍 Buscando part number: ESD7C3.3DT5G
+2025-11-21 20:55:39,577 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:39,577 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:41,578 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 20:55:41,581 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: LD1117ADT-TR REG
+2025-11-21 20:55:41,581 - mouser_api_client - INFO - 🔍 Buscando part number: LD1117ADT-TR REG
+2025-11-21 20:55:42,200 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:42,200 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 20:55:44,201 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: LD1117ADT-TR REG
+2025-11-21 20:55:44,201 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ECS-3225Q-33-260-BS-TR
+2025-11-21 20:55:44,202 - mouser_api_client - INFO - 🔍 Buscando part number: ECS-3225Q-33-260-BS-TR
+2025-11-21 20:55:44,803 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 20:55:44,803 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 20:55:46,803 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 2 especificações
+2025-11-21 21:43:26,496 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10C330JB8NNNC
+2025-11-21 21:43:26,496 - mouser_api_client - INFO - 🔍 Buscando part number: CL10C330JB8NNNC
+2025-11-21 21:43:27,622 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:27,623 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:29,625 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:29,627 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10B472KB8NNNC
+2025-11-21 21:43:29,627 - mouser_api_client - INFO - 🔍 Buscando part number: CL10B472KB8NNNC
+2025-11-21 21:43:30,135 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:30,135 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:32,137 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:32,140 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: GRM1885C1H180JA01D
+2025-11-21 21:43:32,141 - mouser_api_client - INFO - 🔍 Buscando part number: GRM1885C1H180JA01D
+2025-11-21 21:43:32,626 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:32,627 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:34,628 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:34,640 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CL10A106KP8NNNC
+2025-11-21 21:43:34,641 - mouser_api_client - INFO - 🔍 Buscando part number: CL10A106KP8NNNC
+2025-11-21 21:43:35,166 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:35,167 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:37,168 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:37,172 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: C1608X5R1E106M080AC
+2025-11-21 21:43:37,172 - mouser_api_client - INFO - 🔍 Buscando part number: C1608X5R1E106M080AC
+2025-11-21 21:43:37,768 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:37,768 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:39,769 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:39,774 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: 88512006119
+2025-11-21 21:43:39,774 - mouser_api_client - INFO - 🔍 Buscando part number: 88512006119
+2025-11-21 21:43:40,208 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:40,209 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 21:43:42,210 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: 88512006119
+2025-11-21 21:43:42,210 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: NACE100M100V6.3X8TR13F
+2025-11-21 21:43:42,212 - mouser_api_client - INFO - 🔍 Buscando part number: NACE100M100V6.3X8TR13F
+2025-11-21 21:43:42,848 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:42,848 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 21:43:44,850 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: NACE100M100V6.3X8TR13F
+2025-11-21 21:43:44,853 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: CRCW060320K0FKEA
+2025-11-21 21:43:44,854 - mouser_api_client - INFO - 🔍 Buscando part number: CRCW060320K0FKEA
+2025-11-21 21:43:45,407 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:45,407 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:47,409 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:47,421 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ERJ-2RKF2201X
+2025-11-21 21:43:47,421 - mouser_api_client - INFO - 🔍 Buscando part number: ERJ-2RKF2201X
+2025-11-21 21:43:48,021 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:48,023 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:50,024 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 10 especificações
+2025-11-21 21:43:50,027 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: BC847BLT1G
+2025-11-21 21:43:50,027 - mouser_api_client - INFO - 🔍 Buscando part number: BC847BLT1G
+2025-11-21 21:43:50,576 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:50,576 - mouser_api_client - INFO - ✅ Encontrados 2 resultados
+2025-11-21 21:43:52,577 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 9 especificações
+2025-11-21 21:43:52,583 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: IRLML6401TRPBF
+2025-11-21 21:43:52,583 - mouser_api_client - INFO - 🔍 Buscando part number: IRLML6401TRPBF
+2025-11-21 21:43:53,080 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:53,081 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:55,083 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 9 especificações
+2025-11-21 21:43:55,088 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: STPS5H100B-TR
+2025-11-21 21:43:55,088 - mouser_api_client - INFO - 🔍 Buscando part number: STPS5H100B-TR
+2025-11-21 21:43:55,570 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:55,571 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:43:57,572 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 9 especificações
+2025-11-21 21:43:57,580 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ESD7C3.3DT5G
+2025-11-21 21:43:57,580 - mouser_api_client - INFO - 🔍 Buscando part number: ESD7C3.3DT5G
+2025-11-21 21:43:58,025 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:43:58,027 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:44:00,028 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 9 especificações
+2025-11-21 21:44:00,031 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: LD1117ADT-TR REG
+2025-11-21 21:44:00,031 - mouser_api_client - INFO - 🔍 Buscando part number: LD1117ADT-TR REG
+2025-11-21 21:44:00,511 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:44:00,512 - mouser_api_client - INFO - ✅ Encontrados 0 resultados
+2025-11-21 21:44:02,512 - mouser_api_client - WARNING - ⚠️ Nenhuma parte encontrada para: LD1117ADT-TR REG
+2025-11-21 21:44:02,513 - mouser_api_client - INFO - 🔧 Processando dados técnicos para: ECS-3225Q-33-260-BS-TR
+2025-11-21 21:44:02,513 - mouser_api_client - INFO - 🔍 Buscando part number: ECS-3225Q-33-260-BS-TR
+2025-11-21 21:44:02,946 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:44:02,947 - mouser_api_client - INFO - ✅ Encontrados 1 resultados
+2025-11-21 21:44:04,948 - mouser_api_client - INFO - ✅ Dados técnicos extraídos: 9 especificações
+2025-11-21 21:55:52,611 - mouser_api_client - INFO - 📦 Processando lote de 15 part numbers
+2025-11-21 21:55:52,611 - mouser_api_client - INFO - 🔧 [1/15] Processando: CL10C330JB8NNNC
+2025-11-21 21:55:52,611 - mouser_api_client - INFO - 🔍 Buscando part number: CL10C330JB8NNNC
+2025-11-21 21:55:53,652 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:55:53,653 - mouser_api_client - INFO - ✅ Resposta recebida para: CL10C330JB8NNNC
+2025-11-21 21:55:53,653 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:55:55,656 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_CL10C330JB8NNNC.json
+2025-11-21 21:55:55,656 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - CL10C330JB8NNNC
+2025-11-21 21:55:55,657 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:55:55,658 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:55:55,658 - mouser_api_client - INFO - 🏭 Fabricante: Samsung Electro-Mechanics
+2025-11-21 21:55:55,658 - mouser_api_client - INFO - 📝 Descrição: Capacitores de cerâmica multicamada MLCC - SMD/SMT 33pF+/-5% 50V C0G 16 0603...
+2025-11-21 21:55:55,658 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:55:55,660 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:55:55,660 - mouser_api_client - INFO - 💰 Quebras de preço: 8
+2025-11-21 21:55:55,660 - mouser_api_client - INFO - 🔧 [2/15] Processando: CL10B472KB8NNNC
+2025-11-21 21:55:55,660 - mouser_api_client - INFO - 🔍 Buscando part number: CL10B472KB8NNNC
+2025-11-21 21:55:56,154 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:55:56,155 - mouser_api_client - INFO - ✅ Resposta recebida para: CL10B472KB8NNNC
+2025-11-21 21:55:56,155 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:55:58,158 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_CL10B472KB8NNNC.json
+2025-11-21 21:55:58,159 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - CL10B472KB8NNNC
+2025-11-21 21:55:58,159 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:55:58,160 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:55:58,160 - mouser_api_client - INFO - 🏭 Fabricante: Samsung Electro-Mechanics
+2025-11-21 21:55:58,162 - mouser_api_client - INFO - 📝 Descrição: Capacitores de cerâmica multicamada MLCC - SMD/SMT 4.7nF+/-10% 50V X7R 1608...
+2025-11-21 21:55:58,162 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:55:58,163 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:55:58,163 - mouser_api_client - INFO - 💰 Quebras de preço: 8
+2025-11-21 21:55:58,164 - mouser_api_client - INFO - 🔧 [3/15] Processando: GRM1885C1H180JA01D
+2025-11-21 21:55:58,165 - mouser_api_client - INFO - 🔍 Buscando part number: GRM1885C1H180JA01D
+2025-11-21 21:55:58,682 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:55:58,682 - mouser_api_client - INFO - ✅ Resposta recebida para: GRM1885C1H180JA01D
+2025-11-21 21:55:58,683 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:00,687 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_GRM1885C1H180JA01D.json
+2025-11-21 21:56:00,687 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - GRM1885C1H180JA01D
+2025-11-21 21:56:00,688 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:00,689 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:00,689 - mouser_api_client - INFO - 🏭 Fabricante: Murata Electronics
+2025-11-21 21:56:00,690 - mouser_api_client - INFO - 📝 Descrição: Capacitores de cerâmica multicamada MLCC - SMD/SMT 18 pF 50 VDC 5% 0603 C0G (NP0)...
+2025-11-21 21:56:00,691 - mouser_api_client - INFO - 📎 Datasheet: https://www.mouser.com/datasheet/3/76/2/GRM1885C1H180JA01_01A.pdf
+2025-11-21 21:56:00,691 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:00,693 - mouser_api_client - INFO - 💰 Quebras de preço: 7
+2025-11-21 21:56:00,693 - mouser_api_client - INFO - 🔧 [4/15] Processando: CL10A106KP8NNNC
+2025-11-21 21:56:00,694 - mouser_api_client - INFO - 🔍 Buscando part number: CL10A106KP8NNNC
+2025-11-21 21:56:01,161 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:01,162 - mouser_api_client - INFO - ✅ Resposta recebida para: CL10A106KP8NNNC
+2025-11-21 21:56:01,162 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:03,166 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_CL10A106KP8NNNC.json
+2025-11-21 21:56:03,166 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - CL10A106KP8NNNC
+2025-11-21 21:56:03,167 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:03,168 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:03,168 - mouser_api_client - INFO - 🏭 Fabricante: Samsung Electro-Mechanics
+2025-11-21 21:56:03,169 - mouser_api_client - INFO - 📝 Descrição: Capacitores de cerâmica multicamada MLCC - SMD/SMT 10uF+/-10% 10V X5R 1 0603...
+2025-11-21 21:56:03,169 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:03,171 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:03,172 - mouser_api_client - INFO - 💰 Quebras de preço: 4
+2025-11-21 21:56:03,172 - mouser_api_client - INFO - 🔧 [5/15] Processando: C1608X5R1E106M080AC
+2025-11-21 21:56:03,173 - mouser_api_client - INFO - 🔍 Buscando part number: C1608X5R1E106M080AC
+2025-11-21 21:56:03,705 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:03,707 - mouser_api_client - INFO - ✅ Resposta recebida para: C1608X5R1E106M080AC
+2025-11-21 21:56:03,708 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:05,711 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_C1608X5R1E106M080AC.json
+2025-11-21 21:56:05,711 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - C1608X5R1E106M080AC
+2025-11-21 21:56:05,713 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:05,714 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:05,714 - mouser_api_client - INFO - 🏭 Fabricante: TDK
+2025-11-21 21:56:05,715 - mouser_api_client - INFO - 📝 Descrição: Capacitores de cerâmica multicamada MLCC - SMD/SMT 0603 25V 10uF X5R 20% T: 0.8mm...
+2025-11-21 21:56:05,715 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:05,716 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:05,717 - mouser_api_client - INFO - 💰 Quebras de preço: 8
+2025-11-21 21:56:05,717 - mouser_api_client - INFO - 🔧 [6/15] Processando: 88512006119
+2025-11-21 21:56:05,718 - mouser_api_client - INFO - 🔍 Buscando part number: 88512006119
+2025-11-21 21:56:06,446 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:06,446 - mouser_api_client - INFO - ✅ Resposta recebida para: 88512006119
+2025-11-21 21:56:06,447 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:08,447 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_88512006119.json
+2025-11-21 21:56:08,448 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - 88512006119
+2025-11-21 21:56:08,448 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:08,448 - mouser_api_client - INFO - 🔧 Partes encontradas: 0
+2025-11-21 21:56:08,448 - mouser_api_client - INFO - 🔧 [7/15] Processando: NACE100M100V6.3X8TR13F
+2025-11-21 21:56:08,448 - mouser_api_client - INFO - 🔍 Buscando part number: NACE100M100V6.3X8TR13F
+2025-11-21 21:56:08,868 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:08,869 - mouser_api_client - INFO - ✅ Resposta recebida para: NACE100M100V6.3X8TR13F
+2025-11-21 21:56:08,869 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:10,872 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_NACE100M100V6.3X8TR13F.json
+2025-11-21 21:56:10,872 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - NACE100M100V6.3X8TR13F
+2025-11-21 21:56:10,872 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:10,872 - mouser_api_client - INFO - 🔧 Partes encontradas: 0
+2025-11-21 21:56:10,873 - mouser_api_client - INFO - 🔧 [8/15] Processando: CRCW060320K0FKEA
+2025-11-21 21:56:10,873 - mouser_api_client - INFO - 🔍 Buscando part number: CRCW060320K0FKEA
+2025-11-21 21:56:11,474 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:11,474 - mouser_api_client - INFO - ✅ Resposta recebida para: CRCW060320K0FKEA
+2025-11-21 21:56:11,474 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:13,477 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_CRCW060320K0FKEA.json
+2025-11-21 21:56:13,478 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - CRCW060320K0FKEA
+2025-11-21 21:56:13,479 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:13,480 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:13,480 - mouser_api_client - INFO - 🏭 Fabricante: Vishay
+2025-11-21 21:56:13,481 - mouser_api_client - INFO - 📝 Descrição: Resistores de Filme Espesso - SMD 1/8 Watt 20Kohms 1%...
+2025-11-21 21:56:13,481 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:13,483 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:13,484 - mouser_api_client - INFO - 💰 Quebras de preço: 6
+2025-11-21 21:56:13,484 - mouser_api_client - INFO - 🔧 [9/15] Processando: ERJ-2RKF2201X
+2025-11-21 21:56:13,485 - mouser_api_client - INFO - 🔍 Buscando part number: ERJ-2RKF2201X
+2025-11-21 21:56:13,996 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:13,997 - mouser_api_client - INFO - ✅ Resposta recebida para: ERJ-2RKF2201X
+2025-11-21 21:56:13,998 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:16,001 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_ERJ-2RKF2201X.json
+2025-11-21 21:56:16,001 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - ERJ-2RKF2201X
+2025-11-21 21:56:16,001 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:16,001 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:16,001 - mouser_api_client - INFO - 🏭 Fabricante: Panasonic
+2025-11-21 21:56:16,002 - mouser_api_client - INFO - 📝 Descrição: Resistores de Filme Espesso - SMD 0402 2.2Kohms 1% AEC-Q200...
+2025-11-21 21:56:16,002 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:16,002 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:16,002 - mouser_api_client - INFO - 💰 Quebras de preço: 8
+2025-11-21 21:56:16,003 - mouser_api_client - INFO - 🔧 [10/15] Processando: BC847BLT1G
+2025-11-21 21:56:16,003 - mouser_api_client - INFO - 🔍 Buscando part number: BC847BLT1G
+2025-11-21 21:56:16,646 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:16,646 - mouser_api_client - INFO - ✅ Resposta recebida para: BC847BLT1G
+2025-11-21 21:56:16,646 - mouser_api_client - INFO - 📊 Número de resultados: 2
+2025-11-21 21:56:18,648 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_BC847BLT1G.json
+2025-11-21 21:56:18,648 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - BC847BLT1G
+2025-11-21 21:56:18,648 - mouser_api_client - INFO - 📊 Número de resultados: 2
+2025-11-21 21:56:18,648 - mouser_api_client - INFO - 🔧 Partes encontradas: 2
+2025-11-21 21:56:18,648 - mouser_api_client - INFO - 🏭 Fabricante: onsemi
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 📝 Descrição: Transistores bipolares de junção - BJT 100mA 50V NPN...
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 📎 Datasheet: https://www.mouser.com/datasheet/3/101/1/BC846ALT1-D.PDF
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 💰 Quebras de preço: 6
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 🔧 [11/15] Processando: IRLML6401TRPBF
+2025-11-21 21:56:18,649 - mouser_api_client - INFO - 🔍 Buscando part number: IRLML6401TRPBF
+2025-11-21 21:56:19,160 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:19,161 - mouser_api_client - INFO - ✅ Resposta recebida para: IRLML6401TRPBF
+2025-11-21 21:56:19,162 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:21,164 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_IRLML6401TRPBF.json
+2025-11-21 21:56:21,164 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - IRLML6401TRPBF
+2025-11-21 21:56:21,164 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 🏭 Fabricante: Infineon Technologies
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 📝 Descrição: MOSFETs MOSFT P-Ch -4.3A 50mOhm 10nC Log Lvl...
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 📎 Datasheet: https://www.mouser.com/datasheet/3/70/1/Infineon_IRLML6401_DataSheet_v01_01_EN.pdf
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 💰 Quebras de preço: 9
+2025-11-21 21:56:21,165 - mouser_api_client - INFO - 🔧 [12/15] Processando: STPS5H100B-TR
+2025-11-21 21:56:21,166 - mouser_api_client - INFO - 🔍 Buscando part number: STPS5H100B-TR
+2025-11-21 21:56:21,593 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:21,594 - mouser_api_client - INFO - ✅ Resposta recebida para: STPS5H100B-TR
+2025-11-21 21:56:21,595 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:23,597 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_STPS5H100B-TR.json
+2025-11-21 21:56:23,598 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - STPS5H100B-TR
+2025-11-21 21:56:23,598 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:23,598 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:23,598 - mouser_api_client - INFO - 🏭 Fabricante: STMicroelectronics
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 📝 Descrição: Diodos e retificadores Schottky 5.0 Amp 100 Volt...
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 💰 Quebras de preço: 7
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 🔧 [13/15] Processando: ESD7C3.3DT5G
+2025-11-21 21:56:23,599 - mouser_api_client - INFO - 🔍 Buscando part number: ESD7C3.3DT5G
+2025-11-21 21:56:24,071 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:24,072 - mouser_api_client - INFO - ✅ Resposta recebida para: ESD7C3.3DT5G
+2025-11-21 21:56:24,072 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:26,074 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_ESD7C3.3DT5G.json
+2025-11-21 21:56:26,074 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - ESD7C3.3DT5G
+2025-11-21 21:56:26,074 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:26,075 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:26,075 - mouser_api_client - INFO - 🏭 Fabricante: onsemi
+2025-11-21 21:56:26,075 - mouser_api_client - INFO - 📝 Descrição: Diodos de proteção ESD/Diodos TVS ESD PROTECT DIODE...
+2025-11-21 21:56:26,075 - mouser_api_client - INFO - 📎 Datasheet: https://www.mouser.com/datasheet/3/101/2/B146D2A4BCAAF633A7D2E3F2796C7B594D1CC2DDAF3AD22EC39138F2138B1B90.pdf
+2025-11-21 21:56:26,076 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:26,076 - mouser_api_client - INFO - 💰 Quebras de preço: 6
+2025-11-21 21:56:26,076 - mouser_api_client - INFO - 🔧 [14/15] Processando: LD1117ADT-TR REG
+2025-11-21 21:56:26,077 - mouser_api_client - INFO - 🔍 Buscando part number: LD1117ADT-TR REG
+2025-11-21 21:56:26,590 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:26,590 - mouser_api_client - INFO - ✅ Resposta recebida para: LD1117ADT-TR REG
+2025-11-21 21:56:26,591 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:28,593 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_LD1117ADT-TR REG.json
+2025-11-21 21:56:28,595 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - LD1117ADT-TR REG
+2025-11-21 21:56:28,595 - mouser_api_client - INFO - 📊 Número de resultados: 0
+2025-11-21 21:56:28,596 - mouser_api_client - INFO - 🔧 Partes encontradas: 0
+2025-11-21 21:56:28,597 - mouser_api_client - INFO - 🔧 [15/15] Processando: ECS-3225Q-33-260-BS-TR
+2025-11-21 21:56:28,597 - mouser_api_client - INFO - 🔍 Buscando part number: ECS-3225Q-33-260-BS-TR
+2025-11-21 21:56:29,019 - mouser_api_client - INFO - 📡 Status da resposta: 200
+2025-11-21 21:56:29,020 - mouser_api_client - INFO - ✅ Resposta recebida para: ECS-3225Q-33-260-BS-TR
+2025-11-21 21:56:29,021 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:31,023 - mouser_api_client - INFO - 💾 Resposta completa salva em: COMPLETE_API_RESPONSE_ECS-3225Q-33-260-BS-TR.json
+2025-11-21 21:56:31,023 - mouser_api_client - INFO - 📋 RESUMO DA RESPOSTA - ECS-3225Q-33-260-BS-TR
+2025-11-21 21:56:31,023 - mouser_api_client - INFO - 📊 Número de resultados: 1
+2025-11-21 21:56:31,024 - mouser_api_client - INFO - 🔧 Partes encontradas: 1
+2025-11-21 21:56:31,024 - mouser_api_client - INFO - 🏭 Fabricante: ECS
+2025-11-21 21:56:31,024 - mouser_api_client - INFO - 📝 Descrição: Osciladores de relógios padrão 26MHz HCMOS AEC-Q200 3.3V...
+2025-11-21 21:56:31,024 - mouser_api_client - INFO - 📎 Datasheet: 
+2025-11-21 21:56:31,025 - mouser_api_client - INFO - 🔧 Atributos técnicos: 4
+2025-11-21 21:56:31,025 - mouser_api_client - INFO - 💰 Quebras de preço: 8
+2025-11-21 21:56:31,025 - mouser_api_client - INFO - ✅ Lote processado: 15/15 sucessos

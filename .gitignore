@@ -3,3 +3,17 @@ digikeyScraper/venv
 
 findchipsScraper/venv
 findchipsScraper/results
+findchipsScraper/__pycache__
+
+mouserScraper/venv
+mouserScraper/__pycache__
+mouserScraper/results
+
+
+mouser_api/venv
+mouser_api/__pycache__
+mouser_api/results
+
+mouserScraperV2/venv
+mouserScraperV2/__pycache__
+mouserScraperV2/results

@@ -1,0 +1,20 @@
+2025-11-21 18:54:20,844 - mouser_scraper - INFO - 🔍 Buscando em: https://www.mouser.com/c/?q=CL10C330JB8NNNC
+2025-11-21 18:54:21,246 - mouser_scraper - INFO - 🔍 Procurando links de produtos...
+2025-11-21 18:54:21,247 - mouser_scraper - INFO - 🔍 Seletor 'a[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,247 - mouser_scraper - INFO - 🔍 Seletor '.product-link[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,248 - mouser_scraper - INFO - 🔍 Seletor '.mfr-part-num a[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,248 - mouser_scraper - INFO - 🔍 Seletor '.search-results a[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,249 - mouser_scraper - INFO - 🔍 Seletor 'tr a[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,249 - mouser_scraper - INFO - 🔍 Seletor '.ProductTable a[href*="/ProductDetail/"]' encontrou 0 links
+2025-11-21 18:54:21,250 - mouser_scraper - INFO - 🔍 Tentando busca por texto...
+2025-11-21 18:54:21,250 - mouser_scraper - INFO - 🔍 Tentando construir URL manualmente...
+2025-11-21 18:54:21,250 - mouser_scraper - INFO - 🔧 URL manual construída: https://www.mouser.com/ProductDetail/CL10C330JB8NNNC
+2025-11-21 18:54:21,250 - mouser_scraper - INFO - ✅ Produto selecionado: https://www.mouser.com/ProductDetail/CL10C330JB8NNNC
+2025-11-21 18:54:21,250 - mouser_scraper - INFO - 📄 Acessando página do produto...
+2025-11-21 18:54:21,292 - mouser_scraper - INFO - 📖 Extraindo dados do produto...
+2025-11-21 18:54:21,292 - mouser_scraper - INFO - 📝 Título encontrado: Access Denied
+2025-11-21 18:54:21,302 - mouser_scraper - INFO - 📊 Encontradas 0 tabelas na página
+2025-11-21 18:54:21,304 - mouser_scraper - INFO - 🔍 Procurando especificações alternativas: 0 divs encontradas
+2025-11-21 18:54:21,308 - mouser_scraper - INFO - ✅ Dados extraídos: 0 especificações
+2025-11-21 18:54:21,309 - mouser_scraper - INFO - ✅ Scraping concluído com sucesso para: CL10C330JB8NNNC
+2025-11-21 18:54:21,309 - mouser_scraper - INFO - ⏳ Aguardando 4.99 segundos...

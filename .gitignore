@@ -17,3 +17,8 @@ mouser_api/results
 mouserScraperV2/venv
 mouserScraperV2/__pycache__
 mouserScraperV2/results
+
+api_LCSC-JLCPCB/venv
+
+findchipsScraperV2/venv
+findchipsScraperV2/src/__pycache__

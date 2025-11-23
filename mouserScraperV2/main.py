@@ -1,7 +1,7 @@
+import os
 import time
 import json
 import requests
-from bs4 import BeautifulSoup
 from fake_useragent import UserAgent
 
 # ------------------------------------------------------------
@@ -9,7 +9,7 @@ from fake_useragent import UserAgent
 # ------------------------------------------------------------
 
 MOUSER_SEARCH_URL = "https://api.mouser.com/api/v1/search/partnumber"
-API_KEY = "b6e26deb-732d-4771-9d90-02ea60ca3a21"  # coloque sua chave aqui
+API_KEY = "" 
 
 ua = UserAgent()
 
@@ -17,6 +17,9 @@ HEADERS = {
     "User-Agent": ua.random,
     "Accept-Language": "pt-BR,pt;q=0.8,en-US;q=0.5,en;q=0.3",
 }
+
+TEMP_DIR = "temp"
+os.makedirs(TEMP_DIR, exist_ok=True)
 
 
 # ------------------------------------------------------------
@@ -47,59 +50,58 @@ def get_product_detail_url(partnumber: str):
 
 
 # ------------------------------------------------------------
-# FUNÇÃO 2: Scraping do ProductDetailUrl
+# FUNÇÃO 2: Baixar o HTML bruto da página do produto
 # ------------------------------------------------------------
 
-def scrape_mouser_attributes(url: str):
+def download_html(url: str):
     response = requests.get(url, headers=HEADERS)
-    soup = BeautifulSoup(response.text, "html.parser")
 
-    specs = {}
+    print(response)
 
-    # TABELA DE ATRIBUTOS TÉCNICOS
-    table = soup.find("table", {"id": "product-specs"})
-
-    if not table:
-        return {"error": "Tabela de atributos não encontrada", "url": url}
-
-    rows = table.find_all("tr")
-
-    for row in rows:
-        cols = row.find_all("td")
-        if len(cols) >= 2:
-            attr_name = cols[0].get_text(strip=True)
-            attr_value = cols[1].get_text(strip=True)
-            specs[attr_name] = attr_value
-
-    return specs
+    if response.status_code != 200:
+        return None
+    
+    return response.text
 
 
 # ------------------------------------------------------------
-# FUNÇÃO 3: Pipeline completo para um PN
+# FUNÇÃO 3: Pipeline completo para 1 PN
 # ------------------------------------------------------------
 
 def process_partnumber(pn: str):
-    print(f"\n🔍 Buscando URL do produto para: {pn}")
+    print(f"\nBuscando URL do produto para: {pn}")
     url = get_product_detail_url(pn)
 
     if not url:
-        print("❌ Não encontrei o ProductDetailUrl.")
+        print("Não encontrei o ProductDetailUrl.")
         return {"partnumber": pn, "error": "URL não encontrada"}
 
-    print(f"✔️ URL encontrada: {url}")
-    print("⏳ Fazendo scraping...")
+    print(f"URL encontrada: {url}")
+    print("Baixando HTML bruto...")
 
-    attributes = scrape_mouser_attributes(url)
+    html = download_html(url)
+
+    if not html:
+        print("Erro ao baixar HTML")
+        return {"partnumber": pn, "url": url, "error": "Falha ao baixar HTML"}
+
+    # Salvar HTML em arquivo
+    filename = os.path.join(TEMP_DIR, f"{pn}.html")
+    with open(filename, "w", encoding="utf-8") as f:
+        f.write(html)
+
+    print(f"HTML salvo em: {filename}")
 
     return {
         "partnumber": pn,
         "url": url,
-        "attributes": attributes
+        "html_file": filename,
+        "html_length": len(html)
     }
 
 
 # ------------------------------------------------------------
-# FUNÇÃO 4: Fila de múltiplos partnumbers
+# FUNÇÃO 4: Fila de múltiplos PNs
 # ------------------------------------------------------------
 
 def process_queue(partnumbers: list, delay=4):
@@ -109,7 +111,7 @@ def process_queue(partnumbers: list, delay=4):
         result = process_partnumber(pn)
         results.append(result)
 
-        print(f"⏸️ Aguardando {delay} segundos antes do próximo...")
+        print(f"Aguardando {delay} segundos antes do próximo...")
         time.sleep(delay)
 
     return results
@@ -120,25 +122,32 @@ def process_queue(partnumbers: list, delay=4):
 # ------------------------------------------------------------
 
 if __name__ == "__main__":
-    part_numbers = [
-        "CL10C330JB8NNNC",
-        "CL10B472KB8NNNC",
-        "GRM1885C1H180JA01D",
-        "CL10A106KP8NNNC",
-        "C1608X5R1E106M080AC",
-        "88512006119",
-        "NACE100M100V6.3X8TR13F",
-        "CRCW060320K0FKEA",
-        "ERJ-2RKF2201X",
-        "BC847BLT1G",
-        "IRLML6401TRPBF",
-        "STPS5H100B-TR",
-        "ESD7C3.3DT5G",
-        "LD1117ADT-TR REG",
-        "ECS-3225Q-33-260-BS-TR"
+    fila = [
+        "CL10C330JB8NNNC"
     ]
 
-    dados = process_queue(part_numbers)
+    dados = process_queue(fila)
 
     print("\n\n===== RESULTADO FINAL =====")
     print(json.dumps(dados, indent=4, ensure_ascii=False))
+
+
+
+
+# part_numbers = [
+#         "CL10C330JB8NNNC", ok
+#         "CL10B472KB8NNNC", ok
+#         "GRM1885C1H180JA01D", ok
+#         "CL10A106KP8NNNC", ok
+#         "C1608X5R1E106M080AC",
+#         "88512006119", ok
+#         "NACE100M100V6.3X8TR13F", not ok
+#         "CRCW060320K0FKEA", ok
+#         "ERJ-2RKF2201X", ok
+#         "BC847BLT1G", ok
+#         "IRLML6401TRPBF", ok
+#         "STPS5H100B-TR", ok
+#         "ESD7C3.3DT5G", ok
+#         "LD1117ADT-TR REG", ok
+#         "ECS-3225Q-33-260-BS-TR" ok
+#     ]
